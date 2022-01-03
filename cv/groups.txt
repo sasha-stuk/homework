@@ -1,5 +1,0 @@
-1. container - <body>, <div>, <head>, <html>, <header>, <footer>, <main>, <nav>, <section>, <textarea>,<tbody>, <tfoot>, <thead>,
-2. text - <abbr>, <a>, <addres>, <article>, <base>,<br>, <li>,<caption>, <cite>, <dd>, <ins>< <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ol>, <p>, <q>, <summary>, <sup>, <table>, <time>, <title>,<ul>
-3. media - <area>, <audio>, <canvas>, <figure>, <img>, <picture>, <svg>, <video>
-4. style -  <code>, <b>, <del>, <dfn>, <em>, <i>, <link>, <mark>, <pre>,<s>, <span>, <small>, <strong>, <style>, <sub>, <u>, <wbr>
-5. i dont know - <aside>,  <blockquote>, <button>, <col>, <colgroup>, <datalist>,  <details>, <dt>, <embed>, <fieldset>, <figcaption>, <form>, <hr>, <iframe>,<input>, <kbd>, <label>, <legend>, <map>, <meta>, <meter>, <noscript>, <optgroup>,<option>, <progress>, <samp>, <script>, <select>, <source>, <td>, <template>, <th>, <tr> <use>, <var>,
